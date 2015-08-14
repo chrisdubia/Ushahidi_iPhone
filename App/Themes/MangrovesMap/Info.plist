@@ -81,7 +81,7 @@
 	<key>USHButtonDoneColor</key>
 	<string>#0069aa</string>
 	<key>USHMapURL</key>
-	<string>http://mappingthemangroves.qfi.org</string>
+	<string>http://mappingthemangroves.org</string>
 	<key>USHMapURLS</key>
 	<dict>
 		<key>Mapping The Mangroves</key>
